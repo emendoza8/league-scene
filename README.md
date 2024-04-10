@@ -6,7 +6,7 @@ CIS376 League Scene
 **1. Overview:**
 The short animation is designed to showcase a simple animated scene with various objects interacting with each other. The scene includes a player character, enemy character, background, referee cat, and a thief character. These objects move and interact within the scene to create a visually appealing animation. See gif for example:
     
-    ![Animation](../assets/animationGif.gif)
+![Animation](assets/animationGif.gif)
 
 **2. Dependencies/Inclusions:**
 - **SDL2:** Used for graphics rendering, window management, and event handling.
